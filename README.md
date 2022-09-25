@@ -1,6 +1,6 @@
 # Backend-DNS-automation-tool
 
-# Adopting REST Architecture - MVC (Model, View, Controller
+# Adopting REST Architecture - MVC
 
 ```` diff
 + integration partner
