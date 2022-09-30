@@ -14,4 +14,5 @@ https://www.whoisxmlapi.com/ (updated: sept 24th, 2022)
 + Model, View, Controller
 
 
-manifestmanifest 
+manifest
+manifest 
