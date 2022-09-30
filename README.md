@@ -1,6 +1,6 @@
 # Backend-DNS-automation-tool
 
-* for the technologists today
+
 
 # Adopting REST Architecture 
 
