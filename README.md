@@ -16,3 +16,4 @@ https://www.whoisxmlapi.com/ (updated: sept 24th, 2022)
 
 manifest
 manifest 
+design of the mind
