@@ -20,4 +20,4 @@ manifest
 manifest 
 design of the mind
 
-body + mind + spirit
+body + mind + spirit 1:33 am * last updated
