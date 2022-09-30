@@ -16,8 +16,3 @@ https://www.whoisxmlapi.com/ (updated: sept 24th, 2022)
 + Model, View, Controller
 
 
-manifest
-manifest 
-design of the mind
-
-body + mind + spirit 1:33 am * last updated
